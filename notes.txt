@@ -1,0 +1,45 @@
+8/10/26
+
+diff bet func and method: function id independent and method must be called using an object
+
+
+*String functions
+strip() menthod removes spaces from both the ends
+count() used to count a particular char in the text
+find() find position of a substring
+replace(replace text, text to be replaced)
+startswith()
+endswith()
+split() split str into list
+capitalize() 
+swapcase() upper to lower and vise versa
+partition() partiton with respect to the given string/word , by default into 3 parts
+
+*List-
+created using []
+accesed using index number: from start use[0] from end use [-1]
+first element has index 0 and laast element has -1
+
+list functions:
+append() 
+insert() - append at particular position syntax - index(position,value to be added)
+remove() - remove specific element from the List
+pop() - removes last item/element from the list lastcol = color.pop() print(last)
+len()
+sum()
+sorted()- by default sort in ascending order for descending sorted(listname, reverse = True)
+max() min()
+
+Q-create a list of 10 numbers, print the sum of last 4 elements of the list , 
+find out the diff bet max and min element of the list
+insert a item in the list at 6th position, this no must be 1/3rd of no stored at 4th position
+
+loop control statements:
+pass - placeholder, does nothing(instead od comment can write pass when logic is not figured out yet)
+break - exit loop immediately when condition is satisfied
+continue - skips current iteration and continues further
+loop else - 
+
+Q- to guess a number and give reward if num if correct use a random func 
+Q - create a list of numbers and strings accept the values from user , seperate the list from the max number 
+display the list in a desc order
