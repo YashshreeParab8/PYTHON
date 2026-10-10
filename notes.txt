@@ -1,7 +1,6 @@
-8/10/26
+8/10/26:
 
-diff bet func and method: function id independent and method must be called using an object
-
+*diff bet func and method: function id independent and method must be called using an object
 
 *String functions
 strip() menthod removes spaces from both the ends
@@ -20,7 +19,7 @@ created using []
 accesed using index number: from start use[0] from end use [-1]
 first element has index 0 and laast element has -1
 
-list functions:
+*list functions:
 append() 
 insert() - append at particular position syntax - index(position,value to be added)
 remove() - remove specific element from the List
