@@ -1,0 +1,6 @@
+helllo world
+loop control statements:
+pass - placeholder, does nothing(instead od comment can write pass when logic is not figured out yet)
+break - exit loop immediately when condition is satisfied
+continue - skips current iteration and continues further
+loop else - 

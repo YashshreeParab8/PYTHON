@@ -42,3 +42,6 @@ loop else -
 Q- to guess a number and give reward if num if correct use a random func 
 Q - create a list of numbers and strings accept the values from user , seperate the list from the max number 
 display the list in a desc order
+
+#12/10/26
+*File handling:
